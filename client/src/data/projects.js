@@ -11,6 +11,26 @@ export const projects = [
     showImage: true,
   },
   {
+  title: "whisk&whip",
+    subtitle: "Bakery Management System",
+    description: "A system for managing bakery operations including inventory, orders, and staff scheduling.",
+    tech: ["JavaScript", "React", "Node.js", "MySQL"],
+    github: "https://github.com/gracengina/future_fs_03",
+    category: "Software",
+    image:"/Images/whisknwhip.png",
+    showImage: true,
+},
+{
+  title: " Mini CRM System",
+    subtitle: "Customer Relationship Management",
+    description: "A system for managing customer relationships, tracking interactions, and streamlining sales processes.",
+    tech: ["JavaScript", "React", "Node.js", "MySQL"],
+    github: "https://github.com/gracengina/future_fs_02",
+    category: "Software",
+    image:"/Images/CRM.png",
+    showImage: true,
+},
+ {
     title: "Student Portal",
     subtitle: "UI/UX Redesign",
     description: "A complete redesign of a student portal using UX research to improve navigation and accessibility.",
@@ -20,6 +40,7 @@ export const projects = [
     image:"/Images/StudentPortal.png",
     showImage: true,
   },
+ 
   {
     title: "EventLY",
     subtitle: "Scalable Management Backend",
@@ -52,20 +73,7 @@ export const projects = [
   image: "/images/commerce.png", 
   link: "https://github.com/gracengina/commerce"
 },
-{
-  title: "whisk&whip",
-    subtitle: "Bakery Management System",
-    description: "A system for managing bakery operations including inventory, orders, and staff scheduling.",
-    tech: ["JavaScript", "React", "Node.js", "MySQL"],
-    github: "https://github.com/gracengina/future_fs_03",
-    category: "Software"
-},
-{
-  title: " Mini CRM System",
-    subtitle: "Customer Relationship Management",
-    description: "A system for managing customer relationships, tracking interactions, and streamlining sales processes.",
-    tech: ["JavaScript", "React", "Node.js", "MySQL"],
-    github: "https://github.com/gracengina/future_fs_02",
-    category: "Software"
-}
+
+
+
 ];

@@ -51,5 +51,21 @@ export const projects = [
   tech: ["JavaScript", "React", "Node.js", "MySQL"],
   image: "/images/commerce.png", 
   link: "https://github.com/gracengina/commerce"
+},
+{
+  title: "whisk&whip",
+    subtitle: "Bakery Management System",
+    description: "A system for managing bakery operations including inventory, orders, and staff scheduling.",
+    tech: ["JavaScript", "React", "Node.js", "MySQL"],
+    github: "https://github.com/gracengina/future_fs_03",
+    category: "Software"
+},
+{
+  title: " Mini CRM System",
+    subtitle: "Customer Relationship Management",
+    description: "A system for managing customer relationships, tracking interactions, and streamlining sales processes.",
+    tech: ["JavaScript", "React", "Node.js", "MySQL"],
+    github: "https://github.com/gracengina/future_fs_02",
+    category: "Software"
 }
 ];
